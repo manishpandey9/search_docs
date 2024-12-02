@@ -5,6 +5,14 @@ This project demonstrates how to build a semantic search system using OpenAI mod
 
 ---
 
+## **Setup**
+
+- Run the following command to setup the project
+  ```bash
+  pip install -r requirements.txt
+
+- Make sure elasticsearch is setup on your system
+
 ## **Key Features**
 
 ### **Document Processing**
