@@ -1,0 +1,8 @@
+# PDF extraction
+pymupdf==1.22.5
+
+# OpenAI API
+openai==0.27.8
+
+# Elasticsearch client
+elasticsearch==8.6.2
